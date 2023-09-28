@@ -1,0 +1,15 @@
+{
+    "name": "api/app",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Api\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "i"
+        }
+    ],
+    "require": {}
+}
